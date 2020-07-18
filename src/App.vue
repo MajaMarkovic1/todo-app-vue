@@ -5,14 +5,13 @@
 </template>
 
 <script>
-
 export default {
   name: "App"
 };
 </script>
 
 <style>
-@import "./assets/css/todos.css"; 
+@import "./assets/css/todos.css";
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
